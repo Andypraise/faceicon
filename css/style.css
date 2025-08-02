@@ -153,9 +153,10 @@ margin-bottom: 10px;
  }
  
  .open-all{
-    width: 100%;
-    
+    width: 90%;
+    text-align: left;
     padding: 0;
+
  }
  form h2{
     font-size: 25px;
@@ -167,12 +168,21 @@ margin-bottom: 10px;
     text-align: center;
  }
  .first input[type=text]{
-    width: 170px;
+    width: 150px;
  }
  
  input[type=email]
+ 
  {
-    width: 390px;
+    width: 340px;
  }
-
+input[type=password]{
+     width: 340px;
+}
+input[type=text]{
+     width: 340px;
+}
+label{
+    font-size: 15px;
+}
 }
