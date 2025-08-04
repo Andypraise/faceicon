@@ -61,6 +61,7 @@ form p{
 }
 form p a{
     margin-left: 3px;
+    text-decoration: none;
 }
 
 .first{
@@ -70,6 +71,7 @@ form p a{
     padding-bottom: 20px;
     
 }
+
 .first input[type=text]{
     width: 250px;
     height: 40px;
@@ -133,6 +135,7 @@ input[type=button]:hover{
  .container{
     display: flex;
     flex-direction: column;
+    width: 100%;
  }
  .select-all{
     width:100% ;
@@ -141,7 +144,7 @@ input[type=button]:hover{
      
  }
  .select-all h2{
-    font-size: 20px;
+    font-size: 25px;
     text-align: left;
 padding: 0;    
 margin-top: 50px;
@@ -153,7 +156,7 @@ margin-bottom: 10px;
  }
  
  .open-all{
-    width: 90%;
+    width: 100%;
     text-align: left;
     padding: 0;
 
@@ -168,21 +171,21 @@ margin-bottom: 10px;
     text-align: center;
  }
  .first input[type=text]{
-    width: 150px;
+    width: 145px;
  }
  
  input[type=email]
  
  {
-    width: 340px;
+    width: 339px;
  }
 input[type=password]{
-     width: 340px;
+     width: 339px;
 }
 input[type=text]{
-     width: 340px;
+     width: 339px;
 }
 label{
-    font-size: 15px;
+    font-size: 13px;
 }
 }
