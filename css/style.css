@@ -62,7 +62,7 @@ form p{
 form p a{
     margin-left: 3px;
     text-decoration: none;
-    columns: blue;
+    color: blue;
 }
 
 .first{
